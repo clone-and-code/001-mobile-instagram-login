@@ -53,7 +53,11 @@ $ npm run expo start
 
 ## Get Full Access
 
-This is a free and limited version. To access the content in its entirety, be part of [Clone && Code PRO]().
+<a href="https://clone-learn-coding-club.beehiiv.com/upgrade">
+  <img src="https://i.imgur.com/72rCtC9.png" />
+</a>
+
+This is a free and limited version. To access the content in its entirety, be part of [Clone && Code PRO](https://clone-learn-coding-club.beehiiv.com/upgrade).
 
 - Video (Tutorial) Version
 - Extended version with integrated Supabase back-end.
