@@ -14,17 +14,6 @@ import MetaLogo from "./assets/meta-logo.png";
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <StatusBar style="auto" />
-
-      <Image source={InstagramLogo} style={styles.instagramLogo} />
-      <Image source={MetaLogo} style={styles.metaLogo} />
-    </View>
-  );
-}
-
-export default function App() {
-  return (
     <SafeAreaView style={styles.container}>
       <StatusBar style="auto" />
 
